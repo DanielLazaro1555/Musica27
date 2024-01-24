@@ -1,0 +1,24 @@
+[
+  {
+    "archivo_musica": "Albums/198274489_1.flac",
+    "descripcion": "198274489",
+    "imagen": "Albums/198274489.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Let You Down",
+    "artista": "Stonebank feat. Danyka Nadeau",
+    "album": "Let You Down",
+    "numero_de_pista": "1/1",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274490_1.flac",
+    "descripcion": "198274490",
+    "imagen": "Albums/198274490.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Ripped to Pieces (feat. EMEL)",
+    "artista": "Stonebank",
+    "album": "Ripped to Pieces (feat. EMEL)",
+    "numero_de_pista": "1/1",
+    "Año": "2017"
+  }
+]
